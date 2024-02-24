@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="left">My name is Shubham Thaware 🙋‍♂️ and I'm a DevOps Engineer♾️, from india</h1>
+<h1 align="left">My name is Shubham Thaware 🙋‍♂️ and I'm a DevOps Engineer♾️, from India</h1>
 
 ###
 
