@@ -99,6 +99,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/shubham-thaware/shubham-thaware/output/snake.svg" alt="Snake animation" />
 
-###
